@@ -1,5 +1,4 @@
-**HI, I'm Himanshu Khade**
-
+# HI, I'm Himanshu Khade
 AI & Data Science Enthusiast.
 Building intelligent solutions with Python, Machine Learning & Data Analytics.
 
